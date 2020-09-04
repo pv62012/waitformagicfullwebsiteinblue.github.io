@@ -476,10 +476,13 @@ i{
         margin: 30px 0;
     }
     .header-buttons a{
-        margin: 30px 15px!important;
-        justify-content: center!important;
-        align-items: center!important;
-        line-height: 4!important;
+      display: none!important;
+    }
+    .servicediv{
+        margin-left: 15px;
+    }
+    .project-work{
+        margin: 15px;
     }
 
 }
